@@ -27,8 +27,6 @@ def Download_video(entry_url, resolution_var, progressLabel,status_label, resolu
     
             yt_title_cleaned = ''.join(char if char.isalnum() or char in (' ', '_') else '_' for char in yt.title)
             output_path = os.path.join(output_folder, f'{yt_title_cleaned}_merged.mp4')
-
-
    
             video_stream.download(output_path="video", filename=video_filename)
             audio_stream.download(output_path="audio", filename=audio_filename)
