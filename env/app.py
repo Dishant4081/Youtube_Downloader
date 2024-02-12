@@ -12,7 +12,7 @@ root = tk.Tk()
 
 # Title of the window
 root.title("YouTube Downloader!")
-root.iconbitmap(r'youtube.ico')
+root.iconbitmap(r'YT.ico')
 
 # Set min and max width and the height
 root.geometry("800x500")
