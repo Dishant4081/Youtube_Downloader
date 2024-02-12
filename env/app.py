@@ -26,7 +26,7 @@ left_frame = tk.Frame(master=root,width="400",bg=left_color)
 left_frame.pack(side=tk.LEFT, fill=tk.BOTH)
 
 # Load the image
-image_path = r"G:\Python\Projects\YT_Downloader\env\YT_logo.png"  # Change this to the path of your image
+image_path = r"G:\Python\Projects\YT_Downloader\env\YT_logo.png"
 try:
     width = 400
     height = 500
