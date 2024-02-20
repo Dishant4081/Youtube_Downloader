@@ -6,7 +6,7 @@ Follow these steps to run the YouTube Downloader executable on your computer/lap
 
 Step 1: Ensure that you have Visual Studio Code (VSCode) with Python installed.
 
-Step 2: (Optional) If you want the video in 1080p or lower resolution, you will need to download FFMPEG. To download FFMPEG, refer to this video: How to Install FFMPEG. If you encounter any issues, additional videos on YouTube can provide guidance.
+Step 2: (Optional) If you want the video in 1080p or lower resolution, you will need to download FFMPEG. To download FFMPEG, refer to this video: https://youtu.be/vEnSO6wWGGs?si=kVI9dpS62VsBoDUw . If you encounter any issues, additional videos on YouTube can provide guidance.
 
 Step 3: Download the repository as a zip file or use git clone to download it to your computer.
 
